@@ -1,7 +1,6 @@
 package com.platzi.pizza.persistence.repository;
 
 import com.platzi.pizza.persistence.entity.PizzaEntity;
-import com.platzi.pizza.web.controller.PizzaController;
 import java.util.*;
 import org.springframework.data.repository.ListCrudRepository;
 
